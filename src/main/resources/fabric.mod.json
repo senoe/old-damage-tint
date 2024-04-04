@@ -3,12 +3,12 @@
   "id": "old-damage-tint",
   "version": "${version}",
   "name": "Old Damage Tint",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Brings back the red armor damage tint when an entity is hurt.",
   "authors": [
     "senoe"
   ],
   "contact": {
-    "homepage": "https://github.com/senoe/old-damage-tint",
+    "homepage": "https://modrinth.com/project/old-damage-tint",
     "sources": "https://github.com/senoe/old-damage-tint",
     "issues": "https://github.com/senoe/old-damage-tint/issues"
   },
