@@ -10,7 +10,7 @@ jobs:
   build:
     strategy:
       matrix:
-        # # Current Java LTS & minimum supported by Minecraft
+        # Current Java LTS & minimum supported by Minecraft
         java: [21]
     runs-on: ubuntu-22.04
     steps:
